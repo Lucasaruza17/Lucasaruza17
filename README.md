@@ -6,9 +6,9 @@
 </p>
 
 - 🔭 Actualmente trabajando en mis propios proyectos, como **efiPytohn2**.
-- 🌱 Explorando constantemente sobre desarrollo web (HTML, CSS, UnoCSS), bases de datos y Python.
+- 🌱 Explorando constantemente sobre desarrollo web (HTML, CSS, UnoCSS,Typescript,React,etc), bases de datos SQL y Python.
 - 💻 Me encanta armar y configurar hardware de PC, además de experimentar con máquinas virtuales.
-- ⚡ Datos curiosos: En mi tiempo libre disfruto de los videojuegos como Minecraft y títulos de Pokémon.
+
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
