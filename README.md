@@ -1,15 +1,13 @@
 <h1 align="center">Hola 👋, soy Lucas</h1>
 <h3 align="center">Un apasionado desarrollador de software y tecnología</h3>
 
-- 🔭 Actualmente trabajando en mis propios proyectos, como **efiPytohn2**.
-- 🌱 Explorando constantemente sobre desarrollo web (HTML, CSS, React, Node.js), frameworks de Python (Django, FastAPI, Flask) y bases de datos relacionales.
-- 💻 Me encanta armar y configurar hardware de PC, además de experimentar con máquinas virtuales.
+- 🔭 Actualmente trabajando en mis propios proyectos y terminando mis estudios.
+- 🌱 Explorando constantemente sobre desarrollo web,software y de todo un poco. (HTML, CSS, React, Node.js), frameworks de Python (Django, FastAPI, Flask) y bases de datos relacionales SQL.
+- 💻Conocimientos en sistemas operativos,Virtual Machine.
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
   <a href="https://instagram.com/lucas_aruza/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://discord.gg/tu_enlace_de_servidor" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
 <p align="left">
